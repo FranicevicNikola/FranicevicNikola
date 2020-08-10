@@ -1,7 +1,7 @@
 ### Hi there, I'm Nikola 👋
 
 ## I'm a self-taught iOS Developer, Photographer, and Blogger!
-- 🔭 I’m currently working on a Wordpress eCommerce website
+- 🔭 I’m currently working on a iOS eCommerce App
 - 🌱 I’m currently learning everything 😎
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and squat 2x body weight
