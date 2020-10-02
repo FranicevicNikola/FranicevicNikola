@@ -8,27 +8,26 @@
 - ⚡ Fun fact: I love football.
 
 ### Connect with me:
-
-
 [<img align="left" alt="swissChard7 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Nikola Franičević | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nikola Franičević | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
-
-
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+**iOS** 
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/xcode.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/swift.svg" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/swiftui.png" />
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/icloud.svg" />
+
+**Resources**
+<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/stackoverflow.svg" />
+![Hacking with Swift](https://github.com/OddMagnet/OddMagnet/blob/master/icons/hacking-with-swift.png)
+![Apple Developer Forums](https://github.com/OddMagnet/OddMagnet/blob/master/icons/appledevforums.png)
 
 <br />
-<br />
-
 
 ---
 
