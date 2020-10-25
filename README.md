@@ -1,11 +1,11 @@
 ### Hi there, I'm Nikola 👋
 
 ## I'm a self-taught iOS Developer, Photographer, and Blogger!
-- 🔭 I’m currently working on a iOS App
-- 🌱 I’m currently learning everything 😎
+- 🔭 I’m currently working on a iOS App 
+- 🌱 I’m currently learning iOS development 😎
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and squat 2x body weight
-- ⚡ Fun fact: I love football.
+- ⚡ Fun fact: I love creating.
 
 ### Connect with me:
 [<img align="left" alt="swissChard7 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
