@@ -1,6 +1,6 @@
 ### Hi there, I'm Nikola 👋
 
-## I'm a self-taught iOS Developer, Photographer, and Blogger!
+## I'm a Scholar | Self-taught iOS Developer | Hobbyist Photographer
 - 🔭 I’m currently working on a iOS App 
 - 🌱 I’m currently learning iOS development 😎
 - 🤝 I’m looking to collaborate with other content creators
