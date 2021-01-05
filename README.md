@@ -1,11 +1,11 @@
 ### Hi there, I'm Nikola 👋
 
 ## I'm a Scholar | Self-taught iOS Developer | Hobbyist Photographer
-- 🔭 I’m currently working on a iOS App 
+- 🔭 I’m currently working on a European Freelancing iOS App 
 - 🌱 I’m currently learning iOS development 😎
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects and squat 2x body weight
-- ⚡ Fun fact: I love creating.
+- 🥅 2021 Goals: Publish 3 new iOS apps && squat 2x body weight
+- ⚡ Fun fact: I love sports and working out.
 
 ### Connect with me:
 [<img align="left" alt="swissChard7 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
