@@ -35,4 +35,4 @@
 
 [twitter]: https://twitter.com/swissChard7
 [linkedin]: https://linkedin.com/in/nikola-frani%C4%8Devi%C4%87-441511b5/
-[medium]: https://medium.com/@swisschard
+[medium]: https://medium.com/@franicevicnikola
