@@ -33,6 +33,6 @@
 
 <img align="left" alt="FranicevicNikola's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FranicevicNikola&show_icons=true&hide_border=true" />
 
-[twitter]: https://twitter.com/swissChard7
+[twitter]: https://twitter.com/FranicevicNiko
 [linkedin]: https://linkedin.com/in/nikola-frani%C4%8Devi%C4%87-441511b5/
 [medium]: https://medium.com/@franicevicnikola
