@@ -33,8 +33,8 @@
 
 <img align="left" alt="FranicevicNikola's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FranicevicNikola&show_icons=true&hide_border=true" />
 
+# Blog posts
 <!-- MEDIUM:START --> 
-
 <!-- MEDIUM:END -->
 
 [twitter]: https://twitter.com/FranicevicNiko
