@@ -1,7 +1,7 @@
 ### Hi there, I'm Nikola 👋
 
 ## I'm a Scholar | Self-taught iOS Developer | Hobbyist Photographer
-- 🔭 I’m currently working on a European Freelancing iOS App 
+- 🔭 I’m currently working on a European Freelancing iOS App
 - 🌱 I’m currently learning iOS development 😎
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Publish 3 new iOS apps && squat 2x body weight
@@ -32,6 +32,10 @@
 ---
 
 <img align="left" alt="FranicevicNikola's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FranicevicNikola&show_icons=true&hide_border=true" />
+
+# Blog posts
+<!-- MEDIUM:START --> 
+<!-- MEDIUM:END -->
 
 [twitter]: https://twitter.com/FranicevicNiko
 [linkedin]: https://linkedin.com/in/nikola-frani%C4%8Devi%C4%87-441511b5/
