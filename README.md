@@ -12,6 +12,7 @@
 [<img align="left" alt="Nikola Franičević | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nikola Franičević | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
 
+
 ---
 
 <img align="left" alt="FranicevicNikola's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FranicevicNikola&show_icons=true&hide_border=true" />
