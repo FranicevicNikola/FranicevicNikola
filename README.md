@@ -12,23 +12,6 @@
 [<img align="left" alt="Nikola Franičević | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nikola Franičević | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
 
-<br />
-
-### Languages and Tools:
-
-**iOS** 
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/xcode.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/swift.svg" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/swiftui.png" />
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/icloud.svg" />
-
-**Resources**
-<img height="32" width="32" src="https://github.com/OddMagnet/OddMagnet/blob/master/icons/stackoverflow.svg" />
-![Hacking with Swift](https://github.com/OddMagnet/OddMagnet/blob/master/icons/hacking-with-swift.png)
-![Apple Developer Forums](https://github.com/OddMagnet/OddMagnet/blob/master/icons/appledevforums.png)
-
-<br />
-
 ---
 
 <img align="left" alt="FranicevicNikola's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FranicevicNikola&show_icons=true&hide_border=true" />
