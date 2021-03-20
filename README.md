@@ -34,7 +34,6 @@
 <img align="left" alt="FranicevicNikola's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FranicevicNikola&show_icons=true&hide_border=true" />
 
 ### Blog posts:
-
 <!-- MEDIUM:START -->
 - [Best Budget Headphones For Quarantine](https://medium.com/nerd-for-tech/best-budget-headphones-for-quarantine-4608c31779fa?source=rss-6a5da2c3c398------2)
 - [Why is Mobile App Localization Important?](https://medium.com/codex/why-is-mobile-app-localization-important-c51aa69be032?source=rss-6a5da2c3c398------2)
