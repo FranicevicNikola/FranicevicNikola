@@ -1,8 +1,8 @@
 ### Hi there, I'm Nikola <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ## I'm a Scholar | Self-taught iOS Developer | Hobbyist Photographer
-- 🔭 I’m currently working on a European Freelancing iOS App
-- 🌱 I’m currently learning iOS development 😎
+- 🔭 I’m currently working on a iOS App
+- 🌱 I’m currently learning Notifications 😎
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Publish 3 new iOS apps && squat 2x body weight
 - ⚡ Fun fact: I love sports and working out.
