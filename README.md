@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a iOS App
 - 🌱 I’m currently learning Notifications 😎
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Publish 3 new iOS apps && squat 2x body weight
+- 🥅 2021 Goals: Publish 1 new iOS app && deadlift 2x body weight
 - ⚡ Fun fact: I love sports and working out.
 
 ---
