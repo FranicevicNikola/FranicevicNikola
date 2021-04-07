@@ -7,6 +7,18 @@
 - 🥅 2021 Goals: Publish 1 new iOS app && deadlift 2x body weight
 - ⚡ Fun fact: I love sports and working out.
 
+<p align="leading">
+    <a href="https://nikolafranicevic.com">
+        <img src="https://img.shields.io/badge/Website-nikolafranicevic.com-ff69b4" />
+    </a>
+    <a href="https://www.linkedin.com/in/nikolafranicevic/">
+        <img src="https://img.shields.io/badge/LinkedIn-Nikola%20Frani%C4%8Devi%C4%87-blue" />
+    </a>
+    <a href="https://twitter.com/FranicevicNiko">
+        <img src="https://img.shields.io/badge/Twitter-%40FranicevicNiko-blue" alt="Twitter: @FranicevicNiko" />
+    </a>
+</p>
+
 ---
 
 <img align="left" alt="FranicevicNikola's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FranicevicNikola&show_icons=true&hide_border=true" />
