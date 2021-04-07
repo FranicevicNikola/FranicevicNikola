@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Notifications 😎
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Publish 1 new iOS app && deadlift 2x body weight
-- ⚡ Fun fact: I love sports and working out.
+- ⚡ Fun fact: I love sports and working out
 
 <p align="leading">
     <a href="https://nikolafranicevic.com">
