@@ -25,8 +25,8 @@
 
 📕 **Latest Blog Posts**
 <!-- MEDIUM:START -->
-- [How To Stay Lean](https://medium.com/in-fitness-and-in-health/how-to-stay-lean-e99dba2bc486?source=rss-6a5da2c3c398------2)
+- [How To Stay Lean](https://franicevicnikola.medium.com/how-to-stay-lean-e99dba2bc486?source=rss-6a5da2c3c398------2)
 - [What Is Kumquat?](https://franicevicnikola.medium.com/what-is-kumquat-dff984910105?source=rss-6a5da2c3c398------2)
-- [Ketogenic Diet Honest Review](https://medium.com/in-fitness-and-in-health/ketogenic-diet-honest-review-3bb4bec7a5b3?source=rss-6a5da2c3c398------2)
-- [Healthy Keto Recipe You Never Tried Before](https://medium.com/in-fitness-and-in-health/healthy-keto-recipe-you-never-tried-before-4e48d13f6a37?source=rss-6a5da2c3c398------2)
+- [Ketogenic Diet Honest Review](https://franicevicnikola.medium.com/ketogenic-diet-honest-review-3bb4bec7a5b3?source=rss-6a5da2c3c398------2)
+- [Healthy Keto Recipe You Never Tried Before](https://franicevicnikola.medium.com/healthy-keto-recipe-you-never-tried-before-4e48d13f6a37?source=rss-6a5da2c3c398------2)
 <!-- MEDIUM:END -->
