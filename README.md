@@ -25,9 +25,9 @@
 
 📕 **Latest Blog Posts**
 <!-- MEDIUM:START -->
+- [Software I Use Every Day For Developing iOS Applications](https://medium.com/macoclock/software-i-use-every-day-for-developing-ios-applications-4f80c20f03ec?source=rss-6a5da2c3c398------2)
 - [OMAD Honest Review: Convenient & Simple](https://franicevicnikola.medium.com/omad-honest-review-convenient-simple-34f4560a9aad?source=rss-6a5da2c3c398------2)
 - [How To Stay Lean](https://franicevicnikola.medium.com/how-to-stay-lean-e99dba2bc486?source=rss-6a5da2c3c398------2)
 - [What Is Kumquat?](https://franicevicnikola.medium.com/what-is-kumquat-dff984910105?source=rss-6a5da2c3c398------2)
 - [Ketogenic Diet Honest Review](https://franicevicnikola.medium.com/ketogenic-diet-honest-review-3bb4bec7a5b3?source=rss-6a5da2c3c398------2)
-- [Healthy Keto Recipe You Never Tried Before](https://franicevicnikola.medium.com/healthy-keto-recipe-you-never-tried-before-4e48d13f6a37?source=rss-6a5da2c3c398------2)
 <!-- MEDIUM:END -->
