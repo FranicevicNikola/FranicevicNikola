@@ -2,9 +2,9 @@
 
 ## I'm a Scholar | Self-taught iOS Developer | Hobbyist Photographer
 - 🔭 I’m currently working on an iOS App called Spontaneous - Random quote‪s
-- 🌱 I’m currently learning Notifications 😎
+- 🌱 I’m currently learning Physics 😎
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Publish 1 new iOS app && deadlift 2x body weight
+- 🥅 2021 Goals: Monetize my iOS app && deadlift 2x body weight
 - ⚡ Fun fact: I love sports and working out
 
 <p align="leading">
