@@ -29,5 +29,5 @@
 - [How I Started My Web Development Journey](https://medium.com/codex/how-i-started-my-web-development-journey-a40d44fc63b6?source=rss-6a5da2c3c398------2)
 - [The Ultimate Guide: How To Bulk On Keto & OMAD Combined](https://medium.com/21st-century-entrepreneur/the-ultimate-guide-how-to-bulk-on-keto-omad-combined-2a8caf4cc44f?source=rss-6a5da2c3c398------2)
 - [Software I Use Every Day For Developing iOS Applications](https://medium.com/macoclock/software-i-use-every-day-for-developing-ios-applications-4f80c20f03ec?source=rss-6a5da2c3c398------2)
-- [OMAD Honest Review: Convenient & Simple](https://medium.com/21st-century-entrepreneur/omad-honest-review-convenient-simple-34f4560a9aad?source=rss-6a5da2c3c398------2)
+- [OMAD Honest Review: Convenient & Simple](https://byrslf.co/omad-honest-review-convenient-simple-34f4560a9aad?source=rss-6a5da2c3c398------2)
 <!-- MEDIUM:END -->
